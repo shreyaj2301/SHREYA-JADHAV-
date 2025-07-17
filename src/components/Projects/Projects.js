@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import Flower from "../../Assets/Projects/Flower.png";
-import emotion from "../../Assets/Projects/emotion.png";
+import local from "../../Assets/Projects/local.png";
 import Music from "../../Assets/Projects/Music.png";
 import Orphanage from "../../Assets/Projects/Orphanage.png";
 import food from "../../Assets/Projects/food zone.png";
@@ -78,19 +78,18 @@ Developed using HTML, CSS, and JavaScript for the frontend, with a focus on mode
               demoLink="https://react-food-zone1.vercel.app/" 
             />
           </Col>
-{/*
+
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={local}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://github.com/shreyaj2301"      <--------Please include a demo link here 
+              title="Local Market Place"
+              description=" Local Market Place is a React-based web app designed for buying and selling products within a local community. It allows users to explore a range of items, view product details, and connect with sellers. The app focuses on a simple, marketplace-style interface for local trading."
+              ghLink="https://github.com/shreyaj2301/Local-Market-Place"
+               demoLink="https://local-market-place.vercel.app/"     
             />
           </Col>
-          */}
+          
         </Row>
       </Container>
     </Container>
