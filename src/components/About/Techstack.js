@@ -35,7 +35,7 @@ function Techstack() {
         <DiCss3 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <DiWordpress />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
@@ -56,7 +56,7 @@ function Techstack() {
         <DiJava />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiWordpress/>
+        <DiNodejs/>
       </Col>
     </Row>
   );

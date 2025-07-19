@@ -19,12 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I discovered a passion for programming and have continuously strived to learn and grow my skills in the field.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Html,Css, Javascript,Wordpress,ReactJs and Java. </b>
+                <b className="purple"> Html, Css, Javascript, Wordpress, ReactJs and Java. </b>
               </i>
               <br />
               <br />
@@ -39,7 +38,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">front-end,Wordpress</b> and
+              with <b className="purple"> front-end, Wordpress</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -75,7 +74,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+            {/*  <li className="social-icons">
                 <a
                   href="https://twitter.com/"
                   target="_blank"
@@ -84,7 +83,7 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li>*/}
               <li className="social-icons">
                 <a
                   href="www.linkedin.com/in/shreya-jadhav23"
@@ -95,7 +94,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+            {/*  <li className="social-icons">
                 <a
                   href="https://www.instagram.com/"
                   target="_blank"
@@ -104,7 +103,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li>*/}
             </ul>
           </Col>
         </Row>

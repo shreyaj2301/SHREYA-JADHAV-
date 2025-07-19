@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
        {/*   I am currently employed as a software developer at Juspay.*/}
             <br />
-            I have completed Bachelor of Technology (B.Tech) in Computer Science And Engineering at Arvind Gavali College Of Engineering,Satara.
+            I have completed Bachelor of Technology in Computer Science And Engineering from Arvind Gavali College Of Engineering,Satara.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
